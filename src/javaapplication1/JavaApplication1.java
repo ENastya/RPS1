@@ -18,6 +18,7 @@ public class JavaApplication1 {
         // TODO code application logic here
         System.out.println("Test by Tatka");
         System.out.println("Test by Tatka (2)");
+        System.out.println("Test branch");
     }
     
 }
